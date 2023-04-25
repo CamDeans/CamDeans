@@ -1,16 +1,67 @@
-### Hi there 👋
 
-<!--
-**CamDeans/CamDeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://www.animatedimages.org/data/media/56/animated-computer-image-0085.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍁 About Me
+Fullstack Developer, CPA - Gradaute Year of 2023!
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a internet facing web application crm 
+
+🧠 I'm currently learning RedHat OpenShift DO101
+
+👯‍♀️ I'm looking to collaborate on all things JAVA
+
+🤔 I'm looking for help with landin the perfect job!
+
+💬 Ask me about my resume
+
+📫 How to reach me: Add me to your LinkedIn
+
+😄 Pronouns: He/ Him
+
+⚡️ Fun fact: I am Canadian
+
+
+## 🛠 Skills
+Development
+
+➢ C# 
+
+➢ Linux/ VMWare 
+
+➢ C++ 
+
+➢ HTML/ CSS 
+
+➢ JavaScript/ Angular (JS) 
+
+➢ HTML5 (Canvas) 
+
+➢ Java 
+
+➢ MySQL (Workbench) 
+
+➢ PHP 
+
+➢ Git/ GitHub/ Azure
+
+IDE
+
+➢ IntelliJ 
+
+➢ VS Code
+
+➢ VS 2019 - VS 2022
+
+➢ Android Studio
+
+Other
+
+➢ Azure DevOps
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-d-816308b2/)
+
+
