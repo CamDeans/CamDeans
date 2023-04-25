@@ -44,8 +44,6 @@ Development
 
 ➢ PHP 
 
-➢ Git/ GitHub/ Azure
-
 IDE
 
 ➢ IntelliJ 
@@ -57,6 +55,8 @@ IDE
 ➢ Android Studio
 
 Other
+
+➢ Git/ GitHub
 
 ➢ Azure DevOps
 
