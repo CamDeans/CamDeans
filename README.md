@@ -12,7 +12,7 @@ Fullstack Developer, Computer Programming & Analysis - Gradaute Year of 2023!
 
 👯‍♀️ I'm looking to collaborate on all things JAVA
 
-🤔 I'm looking for help with landin the perfect job!
+🤔 I'm looking for help with landing the perfect job!
 
 💬 Ask me about my resume
 
