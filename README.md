@@ -3,7 +3,7 @@
 
 
 ## 🍁 About Me
-Fullstack Developer, CPA - Gradaute Year of 2023!
+Fullstack Developer, Computer Programming & Analysis - Gradaute Year of 2023!
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on a internet facing web application crm 
