@@ -6,7 +6,7 @@
 Fullstack Developer, Computer Programming & Analysis - Gradaute Year of 2023!
 
 ## 
-👩‍💻 I'm currently working on a internet facing web application crm 
+👩‍💻 I'm currently working on a internet facing web application
 
 🧠 I'm currently learning RedHat OpenShift DO101
 
