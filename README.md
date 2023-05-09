@@ -10,7 +10,7 @@ Fullstack Developer, Computer Programming & Analysis - Gradaute Year of 2023!
 
 🧠 I'm currently learning RedHat OpenShift DO101
 
-👯‍♀️ I'm looking to collaborate on all things JAVA
+👯‍♀️ I'm looking to collaborate on all things programming!
 
 🤔 I'm looking for help with landing the perfect job!
 
