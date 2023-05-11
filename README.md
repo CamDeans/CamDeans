@@ -28,8 +28,6 @@ Development
 
 ➢ C# 
 
-➢ Linux/ VMWare 
-
 ➢ C++ 
 
 ➢ HTML/ CSS 
@@ -44,7 +42,7 @@ Development
 
 ➢ PHP 
 
-IDE
+IDE/ Software
 
 ➢ IntelliJ 
 
@@ -53,6 +51,8 @@ IDE
 ➢ VS 2019 - VS 2022
 
 ➢ Android Studio
+
+➢ Linux/ VMWare 
 
 Other
 
